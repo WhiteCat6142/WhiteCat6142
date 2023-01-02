@@ -20,4 +20,5 @@ Sex: Unknown \
 [npm](https://www.npmjs.com/~whitecat6142) - 
 [Gitlab](https://gitlab.com/WhiteCat6142) - 
 [launchpad](https://launchpad.net/~whitecat6142) -
-[BOINC](https://www.boincstats.com/stats/-1/user/detail/73865120664/charts)
+[BOINC](https://www.boincstats.com/stats/-1/user/detail/73865120664/charts) \
+& Visit [新月掲示板](https://shingetsu.info/).
