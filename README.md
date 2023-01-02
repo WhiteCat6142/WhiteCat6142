@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **WhiteCat6142/WhiteCat6142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Have Fun 😄 \
+Age: 4.54 billion years \
+Sex: Unknown \
+[Qiita](https://qiita.com/WhiteCat6142) - 
+[npm](https://www.npmjs.com/~whitecat6142) - 
+[Gitlab](https://gitlab.com/WhiteCat6142) - 
+[launchpad](https://launchpad.net/~whitecat6142) -
+[BOINC](https://www.boincstats.com/stats/-1/user/detail/73865120664/charts)
