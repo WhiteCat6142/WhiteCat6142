@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 Have Fun 😄 \
 Age: 4.54 billion years \
 Sex: Unknown \
+[Gist](https://gist.github.com/WhiteCat6142)
 [Qiita](https://qiita.com/WhiteCat6142) - 
 [npm](https://www.npmjs.com/~whitecat6142) - 
 [Gitlab](https://gitlab.com/WhiteCat6142) - 
