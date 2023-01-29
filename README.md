@@ -21,4 +21,4 @@ Age: 4.54 billion years , Sex: Unknown \
 [Gitlab](https://gitlab.com/WhiteCat6142) - 
 [launchpad](https://launchpad.net/~whitecat6142) -
 [BOINC](https://www.boincstats.com/stats/-1/user/detail/73865120664/charts) \
-[Pure mathematics in scrapbox](https://scrapbox.io/whitecat6142/) & Visit [新月掲示板](https://shingetsu.info/).
+[Pure Mathematics in Scrapbox!](https://scrapbox.io/whitecat6142/) & Visit [新月掲示板](https://shingetsu.info/).
