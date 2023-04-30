@@ -23,3 +23,4 @@ Age: 4.54 billion years , Sex: Unknown \
 [BOINC](https://www.boincstats.com/stats/-1/user/detail/73865120664/charts) \
 [Pure Mathematics in Scrapbox!](https://scrapbox.io/whitecat6142/) & Visit [新月掲示板](https://shingetsu.info/). \
 [![WhiteCat6142's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteCat6142&show_icons=true&theme=tokyonight)](https://github.com/WhiteCat6142/WhiteCat6142)
+[![trophy](https://github-profile-trophy.vercel.app/?username=WhiteCat6142&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
