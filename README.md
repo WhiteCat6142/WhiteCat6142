@@ -20,6 +20,7 @@ Age: 4.54 billion years , Sex: Unknown \
 [npm](https://www.npmjs.com/~whitecat6142) - 
 [Gitlab](https://gitlab.com/WhiteCat6142) - 
 [launchpad](https://launchpad.net/~whitecat6142) -
+[Transifex](https://app.transifex.com/user/profile/whitecat6142/) -
 [BOINC](https://www.boincstats.com/stats/-1/user/detail/73865120664/charts) -
 [Nostr](https://app.coracle.social/people/npub1dgmvrf3vhgz8k8xmjwl0x9kxv978nqtwx2uqzekyw8pshkmhu5nqxsllwf/notes) -
 [デバッグ神社](https://d-shrine.jp/u/WhiteCat6142) \
