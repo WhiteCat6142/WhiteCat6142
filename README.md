@@ -24,11 +24,12 @@ Age: Prohibited matters♪ , Sex: Unknown \
 [BOINC](https://www.boincstats.com/stats/-1/user/detail/73865120664/charts) -
 [Codepen](https://codepen.io/WhiteCat6142) -
 [デバッグ神社](https://d-shrine.jp/u/WhiteCat6142) \
-[Pure Mathematics in Scrapbox!](https://scrapbox.io/whitecat6142/) & Visit [新月掲示板](https://shingetsu.info/). \
+[Pure Mathematics in Scrapbox!](https://scrapbox.io/whitecat6142/) & Visit [新月掲示板](https://shingetsu.info/).
+
 Interests:
-* Optimization, Functinal Analysis, Mathematics and Data Science
-* Build my own computer, Single board computer, Microcontoller and Electric devices, Hardware
-* Docker, Kubernates, GPGPU, Infrastructure
+* Mathematics and Data Science; Optimization, Functinal Analysis
+* Hardware; Build my own computer, Single board computer, Microcontoller and Electric devices
+* Infrastructure; Docker, Kubernates, GPGPU
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=WhiteCat6142&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteCat6142&hide_progress=true&theme=tokyonight)
