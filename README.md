@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 **Have Fun** 😄 *Github from 2015* \
-Age: Prohibited matters♪ , Sex: Unknown \
 [Gist](https://gist.github.com/WhiteCat6142) -
 [Qiita](https://qiita.com/WhiteCat6142) - 
 [npm](https://www.npmjs.com/~whitecat6142) - 
