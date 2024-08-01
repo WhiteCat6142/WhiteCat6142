@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [デバッグ神社](https://d-shrine.jp/u/WhiteCat6142) \
 [Pure Mathematics in Scrapbox!](https://scrapbox.io/whitecat6142/) & Visit [新月掲示板](https://shingetsu.info/).
 
-![Keybase PGP](https://img.shields.io/keybase/pgp/whitecat6142?style=flat-square)
+[![Keybase PGP](https://img.shields.io/keybase/pgp/whitecat6142?style=flat-square)](https://keybase.io/whitecat6142)
 
 Interests:
 * Mathematics and Data Science; Optimization, Functinal Analysis
