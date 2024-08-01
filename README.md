@@ -36,3 +36,5 @@ Interests:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteCat6142&hide_progress=true&theme=tokyonight)
 
 [![WhiteCat6142's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteCat6142&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/WhiteCat6142/WhiteCat6142)
+
+ [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WhiteCat6142&theme=algolia)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
