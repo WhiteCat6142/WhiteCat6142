@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 [![Keybase PGP](https://img.shields.io/keybase/pgp/whitecat6142?style=flat-square)](https://keybase.io/whitecat6142)
 
 Interests:
-* Mathematics and Data Science; Optimization, Functinal Analysis
-* Hardware; Build my own computer, Single board computer, Microcontoller and Electric devices
-* Infrastructure; Docker, Kubernates, GPGPU
+* Mathematics and Data Science; Image Processing, Optimization, and Functinal Analysis
+* Hardware; Build my own computer, Single board computer, Microcontoller, and Electric devices
+* Infrastructure; Docker, Kubernates, GCP, systemd, nginx ,and GPGPU (includes ROCm)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=WhiteCat6142&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteCat6142&hide_progress=true&theme=tokyonight)
